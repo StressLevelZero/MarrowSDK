@@ -2,7 +2,6 @@
 Welcome to the MarrowSDK Wiki.  This is a public resource containing usage documentation for the MarrowSDK.
 
 ## Creating Marrow Content
-- [Requirements](#requirements)
 - [Project Setup](ProjectSetup.md)
 - [Getting Started](#getting-started)
 - [Creating a Pallet / Crates / Datacards](PalletsAndCrates.md)
